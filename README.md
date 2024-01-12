@@ -1,0 +1,6 @@
+-  Hi, I’m @JoanMilano
+-  I’m interested in sharpening my skills in web development  
+-  I’m currently learning react and a bit of back-end 
+-  I’m looking to collaborate on my portfolio project to fix the back-end issues
+-  Aswell as make new coding friends 
+-  you can reach me by messaging me on here 
